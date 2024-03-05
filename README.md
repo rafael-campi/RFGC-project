@@ -6,76 +6,21 @@
   </a>
 </p>
 
-<h3 align="center">Neo Blockchain</h3>
+<h3 align="center">RFGC Blockchain</h3>
 
 <p align="center">
    A modern distributed network for the Smart Economy.
   <br>
-  <a href="https://docs.neo.org/docs/en-us/index.html"><strong>Documentation »</strong></a>
+  <a href=""><strong>Documentation »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/neo-project/neo"><strong>Neo</strong></a>
+  <a href=""><strong>RFGC</strong></a>
   ·
-  <a href="https://github.com/neo-project/neo-modules">Neo Modules</a>
+  <a href="">RFGC Modules</a>
   ·
-  <a href="https://github.com/neo-project/neo-devpack-dotnet">Neo DevPack</a>
+  <a href="">RFGC DevPack</a>
 </p>
-<p align="center">
-  <a href="https://twitter.com/neo_blockchain">
-      <img
-      src=".github/images/twitter-logo.png"
-      width="25px">
-  </a>
-  &nbsp;
-  <a href="https://medium.com/neo-smart-economy">
-      <img
-      src=".github/images/medium-logo.png"
-      width="23px">
-  </a>
-  &nbsp;
-  <a href="https://neonewstoday.com">
-      <img
-      src=".github/images/nnt-logo.jpg"
-      width="23px">
-  </a>
-  &nbsp;  
-  <a href="https://t.me/NEO_EN">
-      <img
-      src=".github/images/telegram-logo.png"
-      width="24px" >
-  </a>
-  &nbsp;
-  <a href="https://www.reddit.com/r/NEO/">
-      <img
-      src=".github/images/reddit-logo.png"
-      width="24px">
-  </a>
-  &nbsp;
-  <a href="https://discord.io/neo">
-      <img
-      src=".github/images/discord-logo.png"
-      width="25px">
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/neosmarteconomy">
-      <img
-      src=".github/images/youtube-logo.png"
-      width="32px">
-  </a>
-  &nbsp;
-  <!--How to get a link? -->
-  <a href="https://neo.org/">
-      <img
-      src=".github/images/we-chat-logo.png"
-      width="25px">
-  </a>
-  &nbsp;
-  <a href="https://weibo.com/neosmarteconomy">
-      <img
-      src=".github/images/weibo-logo.png"
-      width="28px">
-  </a>
-</p>
+
 <p align="center">
   <a href="https://github.com/neo-project/neo/releases">
     <img src="https://badge.fury.io/gh/neo-project%2Fneo.svg" alt="Current neo version.">
